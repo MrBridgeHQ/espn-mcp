@@ -1,22 +1,22 @@
 # ESPN MCP Server
 
-> Connect AI assistants to live ESPN sports data via MCP — scores, standings, stats, odds, news, and schedules across 25+ leagues and sports.
+> Connect AI assistants to live ESPN sports data via MCP - scores, standings, stats, odds, news, and schedules across 25+ leagues and sports.
 
 **[Try it on Apify Store](https://apify.com/mrbridge/espn-mcp-server?fpr=mrbridge)** | Pay-per-event | Free tier available
 
 ## Features
 
 - **12 MCP tools** for comprehensive sports data access
-- Live scores and scoreboards — real-time game updates
-- Standings — current league tables and rankings
-- Team info and rosters — complete team data
-- Schedules — upcoming games and fixtures
-- Game summaries — detailed post-game breakdowns
-- Betting odds — pre-game odds from major sportsbooks
-- Athlete profiles — player bios and career stats
-- Rankings — AP, coaches polls, and power rankings
-- News — latest headlines by sport or league
-- Search — find any team, player, or league
+- Live scores and scoreboards - real-time game updates
+- Standings - current league tables and rankings
+- Team info and rosters - complete team data
+- Schedules - upcoming games and fixtures
+- Game summaries - detailed post-game breakdowns
+- Betting odds - pre-game odds from major sportsbooks
+- Athlete profiles - player bios and career stats
+- Rankings - AP, coaches polls, and power rankings
+- News - latest headlines by sport or league
+- Search - find any team, player, or league
 - **25+ sports & leagues**: NFL, NBA, MLB, NHL, WNBA, College Football, College Basketball, Premier League, La Liga, Bundesliga, Serie A, Champions League, MLS, UFC, PGA, F1, NASCAR, ATP, WTA, and more
 - **No ESPN account or API key required**
 - Works with **Claude Desktop, Claude Code, ChatGPT** and any MCP-compatible client
@@ -56,7 +56,7 @@ Once connected, your AI assistant can handle prompts like:
 
 ## Pricing
 
-Pay-per-event — you only pay for the tools you actually use. The free tier gives you **$5 free credits every month**, enough for hundreds of tool calls.
+Pay-per-event - you only pay for the tools you actually use. The free tier gives you **$5 free credits every month**, enough for hundreds of tool calls.
 
 ## Links
 
@@ -65,9 +65,9 @@ Pay-per-event — you only pay for the tools you actually use. The free tier giv
 
 ## Related MCP Servers
 
-- [League of Legends MCP Server](https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge) — 13 tools for LoL player data, match history, and AI coaching
-- [Teamfight Tactics MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge) — 10 tools for TFT compositions, augments, and AI coaching
-- [Todoist MCP Server](https://apify.com/mrbridge/todoist-ai-assistant?fpr=mrbridge) — 35 tools for AI-powered task management
+- [League of Legends MCP Server](https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge) - 13 tools for LoL player data, match history, and AI coaching
+- [Teamfight Tactics MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge) - 10 tools for TFT compositions, augments, and AI coaching
+- [Todoist MCP Server](https://apify.com/mrbridge/todoist-ai-assistant?fpr=mrbridge) - 35 tools for AI-powered task management
 
 ---
 
